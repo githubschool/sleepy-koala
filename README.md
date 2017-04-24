@@ -2,7 +2,7 @@
 
 - Class Date: April 24 - 25, 2017
 - Facilitators:
-  - @beardofedu :microphone:
+  - @beardofedu :microphone: :smile:
   - @hectorsector :speech_balloon:
 
 ## Talk to Us!!
