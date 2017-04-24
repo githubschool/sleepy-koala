@@ -3,3 +3,7 @@ ldie is in state of Virginica
 - ford's  fish shack
 - The Pit Stop
 
+### places to visit
+- local parks
+- musesum in Washington D.c
+
