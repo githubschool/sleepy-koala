@@ -2,7 +2,7 @@
 
 - Franco Manca :pizza:
 - Street food markets (Camden Town, London Bridge)
-- Belgo :be:
+- Belgo (mussels)
 
 ### Places to Visit
 
