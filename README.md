@@ -1,4 +1,4 @@
-# GitHub for Developers
+# Git Essentials
 
 - Class Date: April 24 - 25, 2017
 - Facilitators:
@@ -20,7 +20,6 @@ Please take a moment to complete the class survey at: https://goo.gl/Uo3ZZ6.
 
 ## Resources
 
-- [GitHub for Developers Manual](https://github.github.io/training-manual/)
 - [Git Cheat Sheets](https://services.github.com/resources/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Authentication Troubleshooting Guide](https://help.github.com/categories/authenticating-to-github/)
