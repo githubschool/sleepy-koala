@@ -8,4 +8,5 @@
 
 - Tate Britain
 - Covent Garden
+- Tower of London
 - Any other tourist trap :trollface:
